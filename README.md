@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **arifsayedmusic@gmail.com** For Collaboration/Project or A
 - 🌱 I’m currently learning degree in Computer Science Engineering (AI/ML)
 - 💞️ I’m looking to collaborate on various companies
 - 📫 How to reach me Mail:arifsayedmusic@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ Fun fact: I Love Tech and Tech Love Me
 
 <!---
 arifsayedmusic/arifsayedmusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
