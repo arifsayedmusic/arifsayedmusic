@@ -1,8 +1,12 @@
+# 💫 Hi 👋, I'm Arif Sayed
+**A passionate Computer Engineer || AI/ML Engineer || UI/UX Designer**
+Email Me 👉 ✉️ **arifsayedmusic@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 👋 Hi, I’m @arifsayedmusic
 - 👀 I’m interested in coding, programming, graphic designing.
-- 🌱 I’m currently learning diploma in Computer Engineering
+- 🌱 I’m currently learning degree in Computer Science Engineering (AI/ML)
 - 💞️ I’m looking to collaborate on various companies
 - 📫 How to reach me Mail:arifsayedmusic@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 <!---
 arifsayedmusic/arifsayedmusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +23,10 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.shion.dev/api?username=arifsayedmusic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=arifsayedmusic&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arifsayedmusic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arifsayedmusic&theme=radical&no-frame=false&no-bg=false&margin-w=4)
